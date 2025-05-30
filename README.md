@@ -11,7 +11,7 @@
 ## ScreenShots
 ![alt text](https://github.com/Helium-He/Notes_app/blob/master/raws/screens.png "Logo Title Text 1")
 
-### Login for guests
+### Login for guest
 Email: guests@gmail.com
 Password: iamguest
 
